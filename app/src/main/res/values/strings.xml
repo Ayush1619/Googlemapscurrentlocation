@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Googlemapscurrentlocation</string>
+    <string name="map_key" translatable="false">
+        AIzaSyB2cK1jlwxsMAu9bbduhA1yjiARkH29Qvo
+    </string>
+
+</resources>
